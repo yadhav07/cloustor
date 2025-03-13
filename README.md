@@ -37,23 +37,6 @@
 
 ### 5. **Footer**
    - Displays company contact information (phone, email), along with social media links (Instagram).
-
-## Installation Instructions
-
-Since this is a static website, no backend is required. Simply follow these steps to get it running locally:
-
-1. **Clone or download the repository**:
-    ```bash
-    git clone https://github.com/your-username/cloustor.git
-    ```
-
-2. **Open the `index.html` file in your browser**:
-    - Navigate to the folder containing `index.html` and double-click it to open it in any modern browser (e.g., Chrome, Firefox, Edge).
-
-3. **Customize if needed**:
-    - Replace placeholder images (`generated_video.gif`, `header1.jpg`, etc.) with your own.
-    - Modify the content, styles, or layout as necessary for your project.
-
 ## Preview
 You can preview this demo by opening the `index.html` file in any browser. It’s designed for desktop and mobile views using responsive Bootstrap components.
 
