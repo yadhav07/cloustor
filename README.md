@@ -1,6 +1,6 @@
 # CLOUSTOR - Model Cloud Storage Website
 
-**CLOUSTOR** is a basic front-end model of a cloud storage service. It provides users with a simple, modern design for exploring cloud storage plans, signing up, logging in, and learning more about the service. This website serves as a static demo for a cloud storage platform and does not include back-end functionality.Use your own PHP for connecting to database.
+**CLOUSTOR** is a basic front-end model of a cloud storage service. It provides users with a simple, modern design for exploring cloud storage plans, signing up, logging in, and learning more about the service. This website serves as a static demo for a cloud storage platform and does not include back-end functionality.Use your own PHP program for connecting to database.
 
 ## Features
 - **Home Page**: Introduces CLOUSTOR with a brief overview of the cloud storage service.
